@@ -1,0 +1,5 @@
+{
+    "port": 8080,
+    "hostname": "botike.com.br",
+    "botUrl": "https://botike.com.br:443/api/v1/bots/test/converse/aabingunz"
+}

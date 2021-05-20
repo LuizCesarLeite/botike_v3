@@ -1,0 +1,5 @@
+{
+    "port": 8080,
+    "hostname": "localhost",
+    "botUrl": "http://localhost:3000/api/v1/bots/zildo/converse/numberTwo"
+}
