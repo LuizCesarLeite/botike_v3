@@ -4,7 +4,7 @@ Site da Botike, feito com Bootstrap e NodeJS, tudo encapsulado com EJS. O site e
 ex: NODE_ENV=development
 
 # Pré requisitos
-Botpress para o robô, ambiente com NodeJS
+Botpress para o robô, ambiente com NodeJS, PostgreSQL como banco de dados
 
 # Pacotes
 npm install axios requests cors body-parser ejs config express nodemon
